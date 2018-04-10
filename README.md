@@ -2,4 +2,5 @@
 # Install requirements
 $ pip install -r requirements.txt
 # Run the application
+$ cd api 
 $ python app.py
